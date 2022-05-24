@@ -1,4 +1,4 @@
-import "./styes.css";
+import "./wrongLettersContainer.css";
 
 function WrongLettersContainer(props) {
   const letterChosen = props.letterChosen;
