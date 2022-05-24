@@ -1,0 +1,19 @@
+/*To be refactored for the letter graveyard */
+#letter-graveyard {
+  max-width: 50%;
+  padding: 3em;
+  text-align: center;
+}
+#letter-graveyard img {
+  max-width: 100%;
+}
+
+.grave-letter {
+  display: inline-block;
+  margin: 0.2em;
+  vertical-align: top;
+  font-size: 2em;
+  padding: 0.3em 0.25em;
+  border: 1px solid rgb(0, 0, 0);
+  border-radius: 100% 100% 0 0;
+}
